@@ -1,4 +1,5 @@
-# Team 6 of the MAE ECE 148 (Winter 2023) at UCSD
+# MAE/ECE 148 Winter 2023 at UCSD
+## TEAM 6
 Our project uses the OAK-D camera, a roboflow YOLO model, PyVESC module, and an Arduino-power camera mount to get our car to scan its surroundings until it finds a basketball and drive until it is within about 0.5 m of the ball.
 ## Used Software
 ### RoboflowOak module
