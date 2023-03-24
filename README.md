@@ -1,6 +1,9 @@
 # MAE/ECE 148 Winter 2023 at UCSD
 ## TEAM 6
 Our project uses the OAK-D camera, a roboflow YOLO model, PyVESC module, and an Arduino-powered camera mount to get our car to scan its surroundings until it finds a basketball and drive until it is within about 0.5 m of the ball.
+## Car Assembly
+### Vehicle Body
+
 ## Tech Stack
 ### RoboflowOak Module
 We used roboflow to train a ball detection model and host the model. We, then, made API calls to hosted model to retrieve predictions on frame captures from the OAK-D camera. Once a ball is found, we wrote a script to calculate the angle between the center of the bounding box drawn around the detected ball and the centerline of the camera (which by default is the center of the frame).
