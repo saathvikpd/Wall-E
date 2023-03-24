@@ -24,9 +24,17 @@ We used the pyvesc module to set our servo's angle once a detection has been mad
 We used an arduino nano to control the camera mount. The camera mount can rotate horizontally (yaw-equivalent) within a range of 180 degrees. And it can move up and down (pitch-equivalent) within a range of 90 degrees. This is used to move the camera around so it can scan the surroundings for a ball (in case the ball is not in frame). 
 ### Motorized Camera Mount
 We designed a camera mount that is actuated by 2 servos, one controls the camera's pitch angle and the other controls the camera's yaw angle. The mount elevates the camera 5 inches amove the vehicle's mounting plate. It allows the camera to turn and scan for the target ball. 
+
+
+https://user-images.githubusercontent.com/58583277/227646168-1071f237-de95-4f92-ad65-a90ee5fe2b01.mp4
+
+
 ## How To Run The Code
 One can run python run.py from inside the Jetson Nano mounted on their car. This will load the model and also detect the motor and begin the purported task of finding a basketball. If no basketball is found, it will remain stationary. The 148remote/ folder contains a cool arduino program for proof of concept. It moves the camera mount through its full range of motion in a rhythmic fashion. 
+## Future Improvements
+
 # Team 6: Wall-E (used to be Cyclops)
-- Saathvik Dirisala  
-- Victor Chen  
-- Yang Song  
+- Saathvik Dirisala (Data Science)
+- Victor Chen (Computer Engineering)
+- Yang Song (Mechanical Engineering)
+![image](https://user-images.githubusercontent.com/58583277/227645139-397ae17a-582f-4f71-9929-fd08ed245317.png)
