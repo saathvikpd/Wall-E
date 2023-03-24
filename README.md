@@ -3,6 +3,8 @@
 Our project uses the OAK-D camera, a roboflow YOLO model, PyVESC module, and an Arduino-powered camera mount to get our car to scan its surroundings until it finds a basketball and drive until it is within about 0.5 m of the ball.
 ## Car Assembly
 ### Vehicle Body
+![image](https://user-images.githubusercontent.com/58583277/227629739-8605ff8f-2651-47f2-8638-b58979c6237b.png) ![image](https://user-images.githubusercontent.com/58583277/227629805-54638b5a-0fda-4de6-a73b-0aee29c2c946.png)
+
 
 ## Tech Stack
 ### RoboflowOak Module
