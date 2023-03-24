@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/58583277/227646168-1071f237-de95-4f92-
 One can run python run.py from inside the Jetson Nano mounted on their car. This will load the model and also detect the motor and begin the purported task of finding a basketball. If no basketball is found, it will remain stationary. The 148remote/ folder contains a cool arduino program for proof of concept. It moves the camera mount through its full range of motion in a rhythmic fashion. 
 
 ## Vehicle In Action
-https://www.youtube.com/watch?v=0vU6c--l-R4
+[Click Here For Video](https://www.youtube.com/watch?v=0vU6c--l-R4)
 
 ## Future Improvements
 We can use the Jetson to control the servo motors through the Arduino. We can account for the yaw angle of the camera mount and add that to the steering, so that the car can steer toward targets that is not in the field of view of the camera when the camera is pointing straight forward. We can also improve the precision of the ball-recognition model by using more pictures of the ball to train the model. 
