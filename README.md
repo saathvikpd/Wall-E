@@ -3,16 +3,19 @@
 Our project uses the OAK-D camera, a roboflow YOLO model, PyVESC module, and an Arduino-powered camera mount to get our car to scan its surroundings until it finds a basketball and drive until it is within about 0.5 m of the ball.
 ## Car Assembly
 ### Vehicle Body
-![image](https://user-images.githubusercontent.com/58583277/227629739-8605ff8f-2651-47f2-8638-b58979c6237b.png) ![image](https://user-images.githubusercontent.com/58583277/227629805-54638b5a-0fda-4de6-a73b-0aee29c2c946.png) ![image](https://user-images.githubusercontent.com/58583277/227641325-697c8cda-a3ac-4d78-9a13-53a1cc52b471.png)
+<img src="https://user-images.githubusercontent.com/58583277/227629805-54638b5a-0fda-4de6-a73b-0aee29c2c946.png" width=40% height=40%> <img src="https://user-images.githubusercontent.com/58583277/227641325-697c8cda-a3ac-4d78-9a13-53a1cc52b471.png" width=40% height=40%> <img src="https://user-images.githubusercontent.com/58583277/227629739-8605ff8f-2651-47f2-8638-b58979c6237b.png" width=40% height=40%>
 ### Camera Mount
-![IMG_2091](https://user-images.githubusercontent.com/58583277/227642485-4f448fb1-47b8-4ab7-b0f7-6edf5321f54c.jpg)
-![image](https://user-images.githubusercontent.com/58583277/227643616-baec11e5-e486-4d1a-9193-1ea6777d0be8.png)
-![image](https://user-images.githubusercontent.com/58583277/227643739-b40e56a0-4555-4d33-a667-3996f8be071a.png)
-![image](https://user-images.githubusercontent.com/58583277/227644150-70d8bf92-f418-4f42-935b-5c682ae54854.png)
-![image](https://user-images.githubusercontent.com/58583277/227644533-c83f8423-c22b-4de6-9346-925459582eca.png)
-![image](https://user-images.githubusercontent.com/58583277/227644672-69abea5b-718a-47b3-8e3b-f683d8dceaa3.png)
+<img src="https://user-images.githubusercontent.com/58583277/227642485-4f448fb1-47b8-4ab7-b0f7-6edf5321f54c.jpg" width=75% height=75%>
 
+![BaseGears](https://user-images.githubusercontent.com/58583277/227658524-233e6c31-cc78-495c-8032-ac0c4f8be5b9.png)
 
+![BasePlate](https://user-images.githubusercontent.com/58583277/227657014-3986f34d-d2b6-40fd-9a19-5dfb6a4f50e6.png)
+
+![CameraPlate](https://user-images.githubusercontent.com/58583277/227657015-886ac40c-0cff-44a8-929c-ef0a823e8ca1.png)
+
+![TallMount](https://user-images.githubusercontent.com/58583277/227657016-4c8e9f72-1d04-466c-a677-dd73e047253d.PNG)
+
+![CameraGear](https://user-images.githubusercontent.com/58583277/227657018-ac78ed20-f576-4419-8053-c66dbd9cf855.png)
 
 
 ## Tech Stack
