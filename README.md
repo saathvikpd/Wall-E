@@ -11,6 +11,6 @@ We used an arduino nano to control the camera mount. The camera mount can rotate
 ## How to run the code
 One can run python run.py from inside the Jetson Nano mounted on their car. This will load the model and also detect the motor and begin the purported task of finding a basketball. If no basketball is found, it will remain stationary. The 148remote/ folder contains a cool arduino program for proof of concept. It moves the camera mount through its full range of motion in a rhythmic fashion. 
 # Team 6: Wall-E (used to be Cyclops)
--Saathvik Dirisala
--Victor Chen
--Yang Song
+-Saathvik Dirisala  
+-Victor Chen  
+-Yang Song  
